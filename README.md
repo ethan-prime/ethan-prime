@@ -1,6 +1,6 @@
 ### Hello, I'm Ethan ‼️
 - I'm currently a sophomore at Northwestern University studying CS
-- I have a large interest in systems/compilers right now
+- I'm really interested in systems right now
 - AI models are almost just as cool
 - My favorite language is either C++ or Python 😼 (cant choose lol)
 <br>
