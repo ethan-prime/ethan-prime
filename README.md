@@ -1,8 +1,7 @@
 ### Hello, I'm Ethan ‼️
 - I'm currently a sophomore at Northwestern University studying CS
 - I'm really interested in systems right now
-- AI models are almost just as cool
-- My favorite language is either C++ or Python 😼 (cant choose lol)
+- Currently, I'm working on a new Compiler! it targets the LLVM IR. check out vulcan!
 <br>
 <div align="center">
 <img alt="Ethan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ethan-prime&layout=compact&show_icons=true&hide_title=true&hide_rank=true&theme=dracula"/>
