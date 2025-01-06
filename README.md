@@ -1,4 +1,4 @@
-### Hello, I'm Ethan ‼️
+### Hi, I'm Ethan
 - I'm currently a sophomore at Northwestern University studying CS
 - I'm really interested in systems right now
 - Currently, I'm working on a C compiler!
