@@ -1,6 +1,6 @@
 ### Hi, I'm Ethan
-- Sophomore at Northwestern University studying CS
-- Super interested in systems right now!
+- Sophomore at Northwestern University studying Computer Science
+- Super interested in Computer Systems and Compilers right now!
 ### Currently, I am:
 - TA for CS 213 (Intro to Computer Systems)
 - CTO of Midwest Legacy Capital Group (M&A Business Broker startup)
