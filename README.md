@@ -2,7 +2,7 @@
 - I'm currently a sophomore at Northwestern University studying CS
 - I'm really interested in systems right now
 - TA for CS 213 (Intro to Computer Systems)
-- CTO of Midwest Legacy Capital Group (M&A Business Broker)
+- CTO of Midwest Legacy Capital Group (M&A Business Broker startup)
 - Currently, I'm working on a C compiler (and an automatic CS2 skins market trading bot 👀)!
 <br>
 <div align="center">
