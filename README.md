@@ -4,8 +4,8 @@
 ### Currently, I am:
 - TA for CS 213 (Intro to Computer Systems)
 - CTO of Midwest Legacy Capital Group (M&A Business Broker startup)
-### Some Recent Projects (check them out!!):
-- [ecc](https://github.com/ethan-prime/ecc): C compiler written in C!
+### Some Recent Projects (check them out!!!):
+- [ecc](https://github.com/ethan-prime/ecc): C compiler written in C
 - [SAT Goat](https://github.com/ethan-prime/SAT-Goat): SAT app with over 20k downloads
 - [cow](https://github.com/ethan-prime/cow): Toy compiler implemented in C++
 - [CSF Trading](https://github.com/ethan-prime/csf-trading): CS2 skin quantitave trading project
