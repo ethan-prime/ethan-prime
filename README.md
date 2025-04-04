@@ -2,7 +2,7 @@
 - Sophomore at Northwestern University studying Computer Science
 - Super interested in Computer Systems and Compilers right now!
 ### Currently, I am:
-- TA for CS 213 (Intro to Computer Systems)
+- TA for CS 212 (Discrete Math)
 - CTO of Midwest Legacy Capital Group (M&A Business Broker startup)
 ### Some Recent Projects (check them out!!!):
 - [ecc](https://github.com/ethan-prime/ecc): C compiler written in C
