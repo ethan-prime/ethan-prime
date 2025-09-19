@@ -1,5 +1,5 @@
 ### Hi, I'm Ethan
-- Sophomore at Northwestern University studying Computer Science
+- Junior at Northwestern University studying Computer Science
 - Super interested in Computer Systems and Compilers right now!
 - TA for CS 343: Operating Systems
 ### Some Recent Projects (check them out!!!):
