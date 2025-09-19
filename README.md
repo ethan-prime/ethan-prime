@@ -1,9 +1,7 @@
 ### Hi, I'm Ethan
 - Sophomore at Northwestern University studying Computer Science
 - Super interested in Computer Systems and Compilers right now!
-### Currently, I am:
-- TA for CS 212 (Discrete Math)
-- CTO of Midwest Legacy Capital Group (M&A Business Broker startup)
+- TA for CS 343: Operating Systems
 ### Some Recent Projects (check them out!!!):
 - [ecc](https://github.com/ethan-prime/ecc): C compiler written in C
 - [SAT Goat](https://github.com/ethan-prime/SAT-Goat): SAT app with over 20k downloads
