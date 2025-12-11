@@ -1,3 +1,3 @@
 ```
-ethan | cs @ northwestern | systems, compilers 
+ethan | cs @ northwestern | systems, compilers, trading
 ```
